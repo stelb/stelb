@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Me on
+* <a rel="me" href="https://mastodon.social/@stelb">Mastodon</a>
+* <a rel="me" href="https://www.linkedin.com/in/stefanlebreton">LinkedIn</a>
 <!--
 **stelb/stelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
