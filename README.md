@@ -4,7 +4,7 @@ Me on
 * <a rel="me" href="https://mastodon.social/@stelb">Mastodon</a>
 * <a rel="me" href="https://www.linkedin.com/in/stefanlebreton">LinkedIn</a>
 
-I working as DBA (Oracle, postgres) since 1999. But I do more than only Databases.
+I am working as DBA (Oracle, postgres) since 1999. But I do more than only Databases.
 
 Linux administration, mail servers, application servers, firewall, loadbalancer, storage, virtualization, monitoring, docker, kubernetes, ansible, certificates.
 
