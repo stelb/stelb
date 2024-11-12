@@ -19,7 +19,7 @@ I am plugging together technologies to make things work for me
 * [Mailcow](https://mailcow.email/)
 * added https://mta-sts.*/.well-known/mta-sts.txt URLs
 * added backup with borgmatic
-* probably I will add external IDM
+* oauth2 when it's officially integrated
 
 ### Passwordsafe
 * [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
@@ -36,28 +36,33 @@ Just started, no more paper, all digital documents in one place and not cluttere
 
 ### Identity MAnagement
 * [kanidm](https://kanidm.com/)
-* everything via commandline
+* everything via commandline :)
 * just for oauth2 until now, maybe later for ldap or unix users
 
 ### Routing/Firewall
-* OpnSense
+* [OpnSense](https://opnsense.org/) with HA setup
 * wireguard
 
 ### NAS
+* [TrueNAS](https://www.truenas.com/truenas-core/) (Core, not sure about Scale as of now)
 
-* TrueNAS (Core, not sure about Scale as of now)
+### DNS
+* [technitium](https://technitium.com/)
 
 ## Lab
 ### proxmox
 ### Kubernetes
 * talos
+* k3s
 * kind
-* minikube etc.
+* minikube
+* etc.
 ### OS
 * ubuntu/debian
 * CentOS
 ### Misc
-* netbootxy
+* [netbootxyz](https://netboot.xyz/) (PXE Booting in lab)
+* [oxidized](https://github.com/ytti/oxidized) (router/switch config backup)
 
 <!--
 **stelb/stelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
