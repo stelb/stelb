@@ -34,7 +34,10 @@ Just started, no more paper, all digital documents in one place and not cluttere
 * Let's encrypt Certificates at home (DNS-01 validation, RFC2136, technitium DNS)
 * import via mail rules/share/directly from scanner to share
 
-### Identity MAnagement
+### Push notifications
+* [ntfy](https://ntfy.sh/) used by monitoring and automated updates/reboots
+
+### Identity Management
 * [kanidm](https://kanidm.com/)
 * everything via commandline :)
 * just for oauth2 until now, maybe later for ldap or unix users
