@@ -30,7 +30,7 @@ Just started, no more paper, all digital documents in one place and not cluttere
 * [paperless-ngx](https://docs.paperless-ngx.com/)
 * [scanservjs](https://github.com/sbs20/scanservjs) (scan directly to consume folder)
 * Integration with kanidm
-* Sharelinks accessible from outside (wireguard tunnel, [caddy](https://caddyserver.com/), (opnsense)[https://opnsense.org/])
+* Sharelinks accessible from outside (wireguard tunnel, [caddy](https://caddyserver.com/), [opnsense](https://opnsense.org/]))
 * Let's encrypt Certificates at home (DNS-01 validation, RFC2136, technitium DNS)
 * import via mail rules/share/directly from scanner to share
 
