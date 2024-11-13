@@ -50,9 +50,9 @@ Just started, no more paper, all digital documents in one place and not cluttere
 * [technitium](https://technitium.com/)
 
 ## Lab
-### proxmox
+### [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
 ### Kubernetes
-* talos
+* [talos](https://www.talos.dev/)
 * k3s
 * kind
 * minikube
@@ -69,6 +69,10 @@ Just started, no more paper, all digital documents in one place and not cluttere
 * [authelia](https://www.authelia.com/) Authentication
 * [checkmk](https://checkmk.com/) Monitoring
 * [dnscontrol](https://dnscontrol.org/) DNS Management
+* [adguard](https://adguard.com/) DNS Filter
+* [ZenArmor](https://www.zenarmor.com/) "AI-based Cloud threat intelligence" for opnsense
+* [HomeAssistant](https://www.home-assistant.io/)
+* docker
 
 <!--
 **stelb/stelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
