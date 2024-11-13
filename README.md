@@ -28,9 +28,9 @@ I am plugging together technologies to make things work for me
 ### Document Management
 Just started, no more paper, all digital documents in one place and not cluttered on disks or in mails.
 * [paperless-ngx](https://docs.paperless-ngx.com/)
-* scanservjs (scan directly to consume folder)
-* Integration with IDM
-* Sharelinks accessible from outside (wireguard tunnel, caddy, opnsense)
+* [scanservjs](https://github.com/sbs20/scanservjs) (scan directly to consume folder)
+* Integration with kanidm
+* Sharelinks accessible from outside (wireguard tunnel, [caddy](https://caddyserver.com/), (opnsense)[https://opnsense.org/])
 * Let's encrypt Certificates at home (DNS-01 validation, RFC2136, technitium DNS)
 * import via mail rules/share/directly from scanner to share
 
@@ -56,6 +56,7 @@ Just started, no more paper, all digital documents in one place and not cluttere
 * k3s
 * kind
 * minikube
+* [cilium](https://cilium.io/)
 * etc.
 ### OS
 * ubuntu/debian
@@ -63,6 +64,11 @@ Just started, no more paper, all digital documents in one place and not cluttere
 ### Misc
 * [netbootxyz](https://netboot.xyz/) (PXE Booting in lab)
 * [oxidized](https://github.com/ytti/oxidized) (router/switch config backup)
+* [traefik](https://traefik.io/traefik/)
+* [netscaler](https://www.netscaler.com/) Loadbalancing
+* [authelia](https://www.authelia.com/) Authentication
+* [checkmk](https://checkmk.com/) Monitoring
+* [dnscontrol](https://dnscontrol.org/) DNS Management
 
 <!--
 **stelb/stelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
