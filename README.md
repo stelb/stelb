@@ -26,6 +26,7 @@ I am plugging together technologies to make things work.
 * nothing special, just automatic paranoid backup, because it will be a major pain to lose data 😅
 
 ### Document Management
+#### Documents
 Just started, no more paper, all digital documents in one place and not cluttered on disks or in mails.
 * [paperless-ngx](https://docs.paperless-ngx.com/)
 * [scanservjs](https://github.com/sbs20/scanservjs) (scan directly to consume folder)
@@ -33,6 +34,10 @@ Just started, no more paper, all digital documents in one place and not cluttere
 * Sharelinks accessible from outside (wireguard tunnel, [caddy](https://caddyserver.com/), [opnsense](https://opnsense.org/]))
 * Let's encrypt Certificates at home (DNS-01 validation, RFC2136, technitium DNS)
 * import via mail rules/share/directly from scanner to share
+
+#### Books/Manuals & similar
+* Moving from calibre-web to [calibre-web automated](https://github.com/crocodilestick/Calibre-Web-Automated)
+* -> automated imports from share & mail
 
 ### Push notifications
 * [ntfy](https://ntfy.sh/) used by monitoring and automated updates/reboots
