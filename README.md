@@ -25,6 +25,7 @@ I am plugging together technologies to make things work.
 ### Passwordsafe
 * [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 * nothing special, just automatic paranoid backup, because it will be a major pain to lose data 😅
+* oauth2 with kanidm in testing... waiting for integration in vaultwarden release
 
 ### Document Management
 #### Documents
@@ -51,6 +52,7 @@ Just started, no more paper, all digital documents in one place and not cluttere
 ### Routing/Firewall
 * [OpnSense](https://opnsense.org/) with HA setup
 * wireguard
+* mikrotik cloud router switches, several APs (cAP ax + wAP ax for home wifi, several map(lite) and hAP ax lite to do experiments, RB5009 is planned)
 
 ### NAS
 * [TrueNAS](https://www.truenas.com/truenas-core/) (Core, not sure about Scale as of now)
