@@ -52,7 +52,8 @@ Just started, no more paper, all digital documents in one place and not cluttere
 ### Routing/Firewall
 * [OpnSense](https://opnsense.org/) with HA setup
 * wireguard
-* mikrotik cloud router switches, several APs (cAP ax + wAP ax for home wifi, several map(lite) and hAP ax lite to do experiments, RB5009 is planned)
+* mikrotik cloud router switches, cloud smart switches, several APs (cAP ax + wAP ax for home wifi, several map(lite) and hAP ax lite to do experiments, RB5009 is planned)
+* still some old zyxel gs1900 switches
 
 ### NAS
 * [TrueNAS](https://www.truenas.com/truenas-core/) (Core, not sure about Scale as of now)
