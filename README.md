@@ -20,7 +20,7 @@ I am plugging together technologies to make things work.
 * [Mailcow](https://mailcow.email/)
 * added https://mta-sts.*/.well-known/mta-sts.txt URLs ([HOWTO](https://gist.github.com/stelb/ad50185bebf3147a9a16a7bbf4df83d0))
 * added backup with borgmatic
-* oauth2 when it's officially integrated
+* oauth2 with kanidm
 
 ### Passwordsafe
 * [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
