@@ -18,7 +18,7 @@ I am plugging together technologies to make things work.
 ## 'Production' important stuff for me
 ### Mailserver
 * [Mailcow](https://mailcow.email/)
-* added https://mta-sts.*/.well-known/mta-sts.txt URLs ([HOWTO](https://gist.github.com/stelb/ad50185bebf3147a9a16a7bbf4df83d0))
+* added https://mta-sts.*/.well-known/mta-sts.txt URLs ([HOWTO](https://gist.github.com/stelb/ad50185bebf3147a9a16a7bbf4df83d0)) soon after this, there was an official integration.. 
 * added backup with borgmatic
 * oauth2 with kanidm
 
@@ -47,16 +47,23 @@ Just started, no more paper, all digital documents in one place and not cluttere
 ### Identity Management
 * [kanidm](https://kanidm.com/)
 * everything via commandline :)
-* just for oauth2 until now, maybe later for ldap or unix users
+* for oauth2, unix users on hosted boxes and maybe even internally soon
+* todo: replicated setup..
 
 ### Routing/Firewall
 * [OpnSense](https://opnsense.org/) with HA setup
 * wireguard
+* cloudflare tunnel
 * mikrotik cloud router switches, cloud smart switches, several APs (cAP ax + wAP ax for home wifi, several map(lite) and hAP ax lite to do experiments, RB5009 is planned)
 * still some old zyxel gs1900 switches
 
 ### NAS
-* [TrueNAS](https://www.truenas.com/truenas-core/) (Core, not sure about Scale as of now)
+* [TrueNAS CORE](https://www.truenas.com/truenas-core/) (TrueNAS mini is still on CORE)
+* [TrueNAS SCALE CE](https://www.truenas.com/truenas-community-edition/) the seem to have ditched the "SCALE".. 2 UGREEN Boxes
+  * [DXP 4800+](https://nas-de.ugreen.com/products/ugreen-nasync-dxp4800-plus-network-attached-storage) 4 Disks (temporary setup right now), 2x 4TB NVMe, 64GB RAM
+  * [DXP 480T](https://nas-de.ugreen.com/products/ugreen-nasync-dxp480t-plus-network-attached-storage) All-Flash 4*4TB NvME, 64GB RAM
+  * Both in small 2.5G Storage Network (not Mikrotik yet..)
+* Letsencrypt Certs with custom shell authenticator [truenas_acme_hetzner](stelb/truenas_acme_hetzner)
 
 ### DNS
 * [technitium](https://technitium.com/)
